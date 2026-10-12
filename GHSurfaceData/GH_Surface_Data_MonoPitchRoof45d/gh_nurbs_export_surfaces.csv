@@ -1,0 +1,6 @@
+surface_id,input_index,face_index,source_kind,degree_u,degree_v,cp_count_u,cp_count_v,is_rational,is_closed_u,is_closed_v,is_periodic_u,is_periodic_v,span_u,span_v,u_min,u_max,v_min,v_max,area,is_trimmed_face,loop_count
+1,0,0,BrepFace,1,1,2,2,False,False,False,False,False,1,1,0.0,1.0,0.0,1.0,202.70931455764693,False,1
+2,1,0,BrepFace,3,1,4,2,False,False,False,False,False,1,1,0.0,18.384776310850238,40.778755470987051,57.957510941974093,143.28018023401643,False,1
+3,2,0,BrepFace,3,1,4,2,False,False,False,False,False,1,1,0.0,18.384776310850238,0.0,11.800000000000002,69.620000000000019,False,1
+4,3,0,BrepFace,3,1,4,2,False,False,False,False,False,1,1,0.0,18.384776310850238,11.800000000000002,28.97875547098705,143.28018023401643,False,1
+5,4,0,BrepFace,3,1,4,2,False,False,False,False,False,1,1,0.0,18.384776310850238,28.97875547098705,40.778755470987051,216.94036046803342,False,1
